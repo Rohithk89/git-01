@@ -1,4 +1,4 @@
-1  mkdir bookmyshow
+1  mkdir bookmyshow nithin
     2  cd bookmyshow/
     3  yum install git -y
     4  git --version
