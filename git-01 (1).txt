@@ -1,5 +1,5 @@
 1  mkdir bookmyshow nithin
-    2  cd bookmyshow/
+    2  cd bookmyshow/ hello
     3  yum install git -y
     4  git --version
     5  ls -al
